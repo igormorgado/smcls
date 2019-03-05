@@ -12,7 +12,7 @@ Basta clonar ou descompactar o arquivo `zip` em um diretorio qualquer.
 
 Abra o arquivo `main.tex` (o nome pode ser alterado).
 
-Modifique os campos `titulo`, `autor`, `orientador`, `curso` e  escreva o seu resumo após o comando da sessão `Resumo`.
+Modifique os campos `titulo`, `autor`, `orientador`, `curso` e  escreva o seu resumo após o comando da seção `Resumo`.
 
 Comente o comando `/mostradados` para criar o formato cego se necessário.
 
