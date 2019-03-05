@@ -4,7 +4,7 @@ Uma classe simples para LaTeX que atende o modelo da semana do matemático. Veja
 
 # Por que
 
-Se você é como eu, um pesquisador, que usa somente software livre. Esta é uma alternativa aos formatos proprietários.
+Se você é como eu que usa somente software livre. Esta é uma alternativa aos formatos proprietários.
 
 # Como usar
 
