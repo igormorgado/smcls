@@ -1,6 +1,6 @@
 # SM.cls
 
-Uma classe simples para LaTeX que atende o modelo da semana do matemático
+Uma classe simples para LaTeX que atende o modelo da semana do matemático. Veja o [exemplo](main.pdf).
 
 # Por que
 
